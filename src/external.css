@@ -1,0 +1,24 @@
+h3
+{
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 0px 0px 8px palevioletred;
+}
+thead
+{
+    background-color: burlywood;
+    color: black;
+}
+table
+{
+    color: black;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    text-align: center;
+}
+#cng
+{
+    color: rgb(255, 5, 5);
+}
