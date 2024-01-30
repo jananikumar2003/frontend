@@ -31,10 +31,10 @@ export const ReadingPage=(myindex)=>
     return(
         <>
         <div className='row justify-content-center bg-warning'>
-            <div className='col-lg-7 col-md-10 col-sm-12 card '>
+            <div className='col-lg-12 col-md-12 col-sm-12 card  '>
                 <div className='col-lg-7 col-md-10 col-sm-12 card'>
                     <h1 className='text-center '>MY CUSTOMER DETAILS</h1>
-                    <div className='mt-5 display-2'>
+                    <div className='mt-5 display-2 text-center'>
                         <p>firstname :{orderdetails.firstname}</p>
                         <p>lastname :{orderdetails.lastname}</p>
                         <p>email :{orderdetails.email}</p>
